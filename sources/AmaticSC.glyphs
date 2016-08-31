@@ -149,6 +149,7 @@ GSOffsetHorizontal = 22;
 GSOffsetVertical = 10;
 };
 weight = Bold;
+weightValue = 200;
 xHeight = 1367;
 }
 );
@@ -52936,6 +52937,9 @@ name = hheaDescender;
 value = -512;
 }
 );
+instanceInterpolations = {
+"97F6A72F-75C9-4005-877B-5FF286A1C934" = 1;
+};
 name = Regular;
 },
 {
@@ -52981,6 +52985,10 @@ name = hheaDescender;
 value = -512;
 }
 );
+interpolationWeight = 200;
+instanceInterpolations = {
+"A3BE8AFD-64C8-4B22-9D76-F0CE292C8BA7" = 1;
+};
 name = Bold;
 weightClass = Bold;
 }
