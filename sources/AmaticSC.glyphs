@@ -1,7 +1,7 @@
 {
 .appVersion = "919";
 DisplayStrings = (
-/Dzcaron
+"\U00A0"
 );
 copyright = "Copyright (c) 2011, The Amatic SC Project Authors (vern@newtypography.co.uk), with Reserved Font Names \"Amatic\" \"Amatic SC\"";
 customParameters = (
@@ -40716,15 +40716,15 @@ rstem = 0;
 },
 {
 glyphname = nbspace;
-lastChange = "2016-08-31 12:44:30 +0000";
+lastChange = "2016-08-31 13:46:03 +0000";
 layers = (
 {
 layerId = "97F6A72F-75C9-4005-877B-5FF286A1C934";
-width = 0;
+width = 700;
 },
 {
 layerId = "A3BE8AFD-64C8-4B22-9D76-F0CE292C8BA7";
-width = 600;
+width = 774;
 }
 );
 unicode = 00A0;
