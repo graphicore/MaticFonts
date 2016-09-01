@@ -1,8 +1,5 @@
 {
 .appVersion = "919";
-DisplayStrings = (
-T
-);
 copyright = "Copyright (c) 2011, The Amatic SC Project Authors (vern@newtypography.co.uk), with Reserved Font Names \"Amatic\" \"Amatic SC\"";
 customParameters = (
 {
@@ -41664,6 +41661,11 @@ rstem = 0;
 };
 },
 {
+glyphname = .null;
+layers = (
+);
+},
+{
 glyphname = cent;
 lastChange = "2016-08-31 15:12:52 +0000";
 layers = (
@@ -52984,6 +52986,8 @@ interpolationWeight = 200;
 instanceInterpolations = {
 "A3BE8AFD-64C8-4B22-9D76-F0CE292C8BA7" = 1;
 };
+isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 }
