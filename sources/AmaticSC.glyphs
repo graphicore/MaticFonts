@@ -1,5 +1,8 @@
 {
 .appVersion = "919";
+DisplayStrings = (
+T
+);
 copyright = "Copyright (c) 2011, The Amatic SC Project Authors (vern@newtypography.co.uk), with Reserved Font Names \"Amatic\" \"Amatic SC\"";
 customParameters = (
 {
@@ -82,6 +85,13 @@ name = liga;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{1544, 28}",
+"{1536, 16}",
+"{1349, 9}",
+"{0, -44}",
+"{-512, -31}"
+);
 ascender = 1536;
 capHeight = 1544;
 customParameters = (
@@ -127,14 +137,27 @@ value = -512;
 }
 );
 descender = -512;
+horizontalStems = (
+70
+);
 id = "97F6A72F-75C9-4005-877B-5FF286A1C934";
 userData = {
 GSOffsetHorizontal = -16;
 GSOffsetVertical = -13;
 };
+verticalStems = (
+70
+);
 xHeight = 1349;
 },
 {
+alignmentZones = (
+"{1552, 34}",
+"{1536, 16}",
+"{1367, 12}",
+"{0, -58}",
+"{-512, -31}"
+);
 ascender = 1536;
 capHeight = 1552;
 customParameters = (
@@ -180,11 +203,17 @@ value = -512;
 }
 );
 descender = -512;
+horizontalStems = (
+110
+);
 id = "A3BE8AFD-64C8-4B22-9D76-F0CE292C8BA7";
 userData = {
 GSOffsetHorizontal = 22;
 GSOffsetVertical = 10;
 };
+verticalStems = (
+110
+);
 weight = Bold;
 weightValue = 200;
 xHeight = 1367;
