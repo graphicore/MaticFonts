@@ -25,5 +25,7 @@ This project is a fork from the old Google font repository.
 * Improve README.md
 * Run fonts through Fontbakery and ship fonts.
 * There is "BetaMatic" and "Metamatic" in the old sources, it would be nice to have then as glyphs sources as well. (Maybe I'll do but with less care than for Amatic)
-* Draw missing glyphs in Bold Master: Delta, Omega, mu, onesuperior, twosuperior, threesuperior, foursuperior, softhyphen, bulletoperator, divisionslash
-* some of the Bold ligatures: ff* mm ll ee lack variety between glyphs
+* Draw missing glyphs in Bold Master: Delta, Omega, mu, micro, onesuperior, twosuperior, threesuperior, foursuperior, bulletoperator, divisionslash, softhyphen; Marked red.<br />
+![red marked glyphs missing in bold master](documentation/screenshots/missing.png)
+* Some of the Bold ligatures: ff* mm ll ee lack variety between glyphs, because they use the same components for the double glyphs. Marked orange.<br />
+![orange marked glyphs, no variety in bold master](documentation/screenshots/variety.png)
